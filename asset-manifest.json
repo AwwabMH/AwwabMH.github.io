@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.c3ce0d1b.js",
+    "main.js": "/static/js/main.134158c1.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/gopark.png": "/static/media/gopark.50ebb45ca01066d38a7e.png",
@@ -9,9 +9,10 @@
     "static/media/logo.png": "/static/media/logo.e3cc5c2f4ec2151af833.png",
     "static/media/teenshare.png": "/static/media/teenshare.889b4e9a06a762c3edeb.png",
     "static/media/des2.jpg": "/static/media/des2.8c0de50790aec73d07cf.jpg",
+    "static/media/fintrust.png": "/static/media/fintrust.460296be6d2e397ce471.png",
     "static/media/about.png": "/static/media/about.3e1bba79e36cc9b01be9.png",
     "static/media/pytorch.png": "/static/media/pytorch.14e02f5e448197e3a976.png",
-    "static/media/AwwabHamam_CV.pdf": "/static/media/AwwabHamam_CV.da95cddc193a744d1047.pdf",
+    "static/media/AwwabHamam_CV.pdf": "/static/media/AwwabHamam_CV.00b8b1d80e1e427ca0e2.pdf",
     "static/media/resume.png": "/static/media/resume.50aab6582f6b120eedc6.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/ewallet.png": "/static/media/ewallet.bb0374f4130e844d870a.png",
@@ -20,12 +21,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.c3ce0d1b.js.map": "/static/js/main.c3ce0d1b.js.map",
+    "main.134158c1.js.map": "/static/js/main.134158c1.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c476ba.css",
-    "static/js/main.c3ce0d1b.js"
+    "static/js/main.134158c1.js"
   ]
 }
